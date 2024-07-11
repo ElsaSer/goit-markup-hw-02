@@ -6,7 +6,7 @@ body {
 
 .logo {
   font-family: "Raleway", sans-serif;
-  font-size: 18;
+  font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -15,8 +15,9 @@ body {
 }
 
 .main-header {
-  background-color: #e7e9fc;
+  background-color: #E7E9FC;
 }
-.web {
-  color: #2e2f42;
+.header-nav{
+  color: #2E2F42;
 }
+
