@@ -208,6 +208,9 @@
     color: var(--slate);
   }
   
+.portfolio-list_img{ 
+}
+
 
   .footer {
     background-color: var(--navy-blue);
