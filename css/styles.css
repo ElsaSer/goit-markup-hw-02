@@ -55,14 +55,6 @@ body {
   background-color: var(--white);
 }
 
-a {
-  text-decoration: none;
-}
-
-ul {
-  list-style-type: none;
-}
-
 .logo {
   font-family: var(--second-family);
   font-weight: 700;
@@ -182,58 +174,37 @@ address {
   color: var(--slate);
 }
 
-.portofolio-title {
-  font-family: "Roboto";
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-align: center;
-  text-transform: capitalize;
-  color: var(--primary-color);
-}
 
-.portfolio-list_title {
-  font-family: "Roboto";
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.02em;
-  color: var(--primary-color);
-}
-
-.portfolio-list_description {
-  font-family: Roboto;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 24px;
-  letter-spacing: 0.02em;
-  color: var(--primary-slate);
-}
-
-
-.portfolio-title {
+.our-portofolio-title {
+    font-family: "Roboto";
     font-size: 36px;
+    font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-transform: capitalize;
     text-align: center;
-    color: var(--navy-blue);
+    text-transform: capitalize;
+    color: var(--primary-color);
   }
-
-  .portfolio-list_title {
-    font-weight: 500;
+  
+  .our-portofolio-subtitle {
+    font-family: "Roboto";
     font-size: 20px;
-    line-height: 1.2;
+    font-weight: 500;
+    line-height: 24px;
     letter-spacing: 0.02em;
-    color: var(--navy-blue);
+    color: var(--primary-color);
+  }
+  
+  .our-portofolio-paragraph {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: var(--primary-slate);
   }
 
-  .portfolio-list_description {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--slate);
-  }
+
 .footer {
   background-color: var(--navy-blue);
 }
