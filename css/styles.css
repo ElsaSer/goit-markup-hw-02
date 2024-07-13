@@ -66,12 +66,12 @@
     color: var(--iris);
   }
   
-  .logo_black {
+  .logo-black {
     font-family: var(--second-family);
     color: var(--navy-blue);
   }
   
-  .logo_white {
+  .logo-white {
     font-family: var(--second-family);
     color: var(--cloud);
   }
@@ -166,7 +166,7 @@
     color: var(--navy-blue);
   }
   
-  .team-list_title {
+  .team-list_name {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -175,12 +175,13 @@
     color: var(--navy-blue);
   }
   
-  .team-list_description {
+  .team-list_position {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
     color: var(--slate);
   }
+  
   
  
   
