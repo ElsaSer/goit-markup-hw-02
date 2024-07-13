@@ -209,12 +209,18 @@
   }
   
 
-  .footer {
-    background-color: var(--navy-blue);
+  .footer-section {
+    background-color: #2e2f42;
   }
   
-  .footer-description {
-    line-height: 1.5;
+  .footer-paragraph {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
     letter-spacing: 0.02em;
-    color: var(--cloud);
+    color: var(--cloud-text);
+  }
+  
+  .logo-section {
+    color: #2e2f42;
   }
