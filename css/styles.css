@@ -205,14 +205,18 @@ address {
   }
 
 
-.footer {
-  background-color: var(--navy-blue);
-}
-
-.footer-description {
-  font-family: "Roboto";
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--cloud);
-}
+  .footer{
+    background-color: var(--primary-color);
+  }
+  
+  .footer-paragraph {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: var(--cloud-text);
+  }
+  
+  .logo-section {
+    color: #f4f4fd;
+  }
