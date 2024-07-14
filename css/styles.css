@@ -66,15 +66,7 @@
     color: var(--iris);
   }
   
-  .logo-black {
-    font-family: var(--second-family);
-    color: var(--navy-blue);
-  }
   
-  .logo-white {
-    font-family: var(--second-family);
-    color: var(--cloud);
-  }
   
 .header-link{
     font-weight: 500;
@@ -221,6 +213,5 @@
     color: var(--cloud);
   }
   
-  .logo-section { color: var(--navy-blue);
-  }
+  .design-logo{color: var(--cloud);}
 
